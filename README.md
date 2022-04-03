@@ -1,6 +1,6 @@
-# React Wordle
+# React Wordle (AWS)
 
-This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
+This is an adaption to AWS 3-letter acronyms, from a clone project of the popular word guessing game we all know and love - Wordle. Made using React, Typescript, and Tailwind.
 
 [**Try out the demo!**](https://reactle.vercel.app/)
 
